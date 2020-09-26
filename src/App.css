@@ -1,0 +1,28 @@
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ffe1e6;
+  position: relative;
+  height: 100vh;
+}
+
+.sliders{
+  position: absolute;
+  top: 5px;
+  right: 15px;
+}
+
+.slider{
+  display: flex;
+}
+
+.slider p{
+  width: 55px;
+}
+
+
+.canvas{
+  width: 500px;
+  height: 500px;
+}
